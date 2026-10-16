@@ -34,7 +34,8 @@ npm run dev
 
 1. Review the text and contact details in `src/portfolioData.js`.
 2. The CV project uses the verified repository URL `https://github.com/SoheilLexicon/Lexicon-CV`.
-3. **Skåne IT Support** is currently a local demo. Add `repoUrl` and `demoUrl` *only after* they exist and you have tested them.
+3. **Skåne IT Support:** React and Vite business website. Source code: https://github.com/SoheilLexicon/Skane-IT-Support. Live website pending.
+
 4. **CampusEats** is clearly labelled a **group prototype**; do not present it as a completed individual production app.
 5. Private side projects are not included in this public portfolio.
 6. Check the mobile menu, external links and email link before presenting.
