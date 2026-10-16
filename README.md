@@ -36,9 +36,8 @@ npm run dev
 2. The CV project uses the verified repository URL `https://github.com/SoheilLexicon/Lexicon-CV`.
 3. **Skåne IT Support:** React and Vite business website. Source code: https://github.com/SoheilLexicon/Skane-IT-Support. Live website pending.
 
-4. **CampusEats** is clearly labelled a **group prototype**; do not present it as a completed individual production app.
-5. Private side projects are not included in this public portfolio.
-6. Check the mobile menu, external links and email link before presenting.
+4. Private side projects are not included in this public portfolio.
+5. Check the mobile menu, external links and email link before presenting.
 
 ## AI in the development workflow
 
