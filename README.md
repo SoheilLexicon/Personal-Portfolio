@@ -15,14 +15,20 @@ A responsive individual frontend portfolio made with **React, Vite, JavaScript/J
 
 `src/App.jsx` contains the React components. `src/portfolioData.js` holds editable details, projects, skills and links. `src/App.css` controls layout, colors and responsive rules.
 
-## Run locally
+
+## Run Locally
+
+1. Open the project folder in VS Code.
+2. Open the terminal.
+3. Run:
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open the local URL Vite prints in the terminal. `npm run build` creates the deployable `dist` directory.
+4. Open the local URL displayed by Vite.
+
 
 ## Before publishing
 
